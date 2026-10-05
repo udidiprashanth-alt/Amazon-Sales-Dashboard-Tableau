@@ -2,7 +2,7 @@
 
 An interactive, 4-page Tableau dashboard that analyses Amazon sales performance across revenue, profit, cost, orders, shipment time, regions, countries, sales channels and item types.
 
-![Dashboard Overview](images/01-amazon-sales-dashboard-overview.png)
+![Dashboard Overview](01-amazon-sales-dashboard-overview.png)
 
 
 
@@ -31,16 +31,16 @@ Give business stakeholders a quick view of **how much we sell, where we make pro
 | 4 | Item Analysis | Revenue, Cost, Profit and Orders split by Item Type, with Item Type filter |
 
 ### 1. Sales Dashboard
-![Sales Dashboard](images/01-amazon-sales-dashboard-overview.png)
+![Sales Dashboard](01-amazon-sales-dashboard-overview.png)
 
 ### 2. Executive Homepage
-![Executive Homepage](images/02-executive-homepage.png)
+![Executive Homepage](02-executive-homepage.png)
 
 ### 3. Revenue & Shipment Analysis
-![Revenue Analysis](images/03-revenue-shipment-analysis.png)
+![Revenue Analysis](03-revenue-shipment-analysis.png)
 
 ### 4. Item Analysis
-![Item Analysis](images/04-item-analysis.png)
+![Item Analysis](04-item-analysis.png)
 
 ## Key Insights
 - **Total revenue $2,410M** and **total profit $797M** (about 33% profit margin), with **9.09M units** sold and an **average shipment time of 24.31 days**.
